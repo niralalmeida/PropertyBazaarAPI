@@ -84,6 +84,28 @@ DATABASES = {
     }
 }
 
+# For PostgreSQL
+"""DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'PropertyBazaarAPI',
+        'USER': 'rudolphalmeida',
+        'PASSWORD': 'RuduPudu158',
+        'HOST': 'localhost',
+        'PORT': '5432'
+    }
+}"""
+
+# For MySQL
+"""DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'PropertyBazaarAPI',
+        'USER': 'rudolphalmeida',
+        'PASSWORD': '562cc1265edad26RuDu',
+        'HOST': 'rudolphalmeida.mysql.pythonanywhere-services.com',
+    }
+}"""
 
 # Password validation
 # https://docs.djangoproject.com/en/1.10/ref/settings/#auth-password-validators
