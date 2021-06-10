@@ -1,3 +1,3 @@
-django==1.10.6
+django==2.2.24
 djangorestframework
 Pillow
